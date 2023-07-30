@@ -1,9 +1,9 @@
 # Portfolio
-<h4>Visit :  https://amit-kumar-pandey-05.github.io/Portfolio/</h4>
+<h4>Visit :  https://swarupinfotech.github.io/</h4>
 
 <hr>
 
-This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [Amit Kumar Pandey]([https://amit-kumar-pandey-05.github.io/Portfolio/]).
+This is my portfolio showcasing my projects and skills. You can visit the live version of the portfolio [Swarup Kumar Mahato]([https://swarupinfotech.github.io/protfolio3.github.io/]).
 
 # Table of Contents
 
@@ -22,23 +22,23 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 
 # Projects
 
-## Calculate me
+## Water jug Game
 
-- Link: [Live Demo](https://amit-kumar-pandey-05.github.io/calculator) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/calculator)
+- Link: [Live Demo](https://swarupinfotech.github.io/Water-jug_Game.github.io/) | [GitHub Repo](https://swarupinfotech.github.io/)
 - Technologies:
 . HTML
 . CSS
 . JAVASCRIPT
 
-## Weather App
-- Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Weather-App/) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Weather-App)
+## Ball break game
+- Link: [Live Demo](https://swarupinfotech.github.io/Ball-break_Game.github.io/) | [GitHub Repo](https://swarupinfotech.github.io/protfolio3.github.io/)
 - Technologies:
   . HTML
   . CSS
   . JAVASCRIPT
 
 ## Speech to text converter
-- Link: [Live Demo](https://amit-kumar-pandey-05.github.io/Speech-To-Text-Converter-/) | [GitHub Repo](https://github.com/Amit-Kumar-Pandey-05/Speech-To-Text-Converter-)
+- Link: [Live Demo](https://swarupinfotech.github.io/Convertor.github.io/) | [GitHub Repo](https://swarupinfotech.github.io/protfolio3.github.io/)
 - Technologies:
   . HTML
   . CSS
@@ -63,16 +63,24 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 - Category 2:
   - Content Writing
   - Video Editing
+ - Category 3:
+   - Game Devlopment
+   - Fullstack Web devlopment
+   - Software Devlopment
+   - AI/ML Neuron Network/Robotices
+-Category4:
+  -Ethical hacking
+  -Android /System/network/Iot/Server/Crypto /etc and much more hacking Skill
 
 <hr>
 
 # Contact
 
-- Email: amitaur87@gmail.com
-- LinkedIn: [Amit Kumar Pandey](https://www.linkedin.com/in/mr0507)
+- Email: swarupinfotech1@gmail.com
+- LinkedIn: [Swarup Infotech](https://www.linkedin.com/feed/)
 - Twitter: [](https://twitter.com/)
-- Instagram: [Pikachu...](https://www.instagram.com/pandit_0507)
-- Personal Website: [](https://)
+- Instagram: [hck.ai...](https://www.instagram.com/hck.ai/)
+- Personal Website: [](https://swarupinfotech.com)
 <hr><hr>
 Feel free to reach out to me for any collaborations, project ideas, or job opportunities.
 
