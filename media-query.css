@@ -1,0 +1,66 @@
+@media (max-width:1199px)
+{
+
+    .aside {
+        left: -270px;
+    }
+
+    .main-content {
+        padding-left: 0;
+    }
+
+    .about .about-content .personal-info .info-item p span {
+        display: block;
+        margin-left: 0;
+    }
+    
+
+}
+
+
+
+
+@media (max-width:991px)
+{
+
+    .home .home-img {
+        display: none;
+    }
+    .home .home-info {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .service .service-item,
+    .portfolio .portfolio-item,
+    .contact .contact-info-item {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+
+}
+
+
+
+
+@media (max-width:767px)
+ {
+
+
+    .about .about-content .personal-info,
+    .about .about-content .skills,
+    .about .about-content .education,
+    .about .about-content .experience,
+    .service .service-item,
+    .portfolio .portfolio-item,
+    .contact .contact-info-item,
+    .contact .contact-form .col-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+
+
+
+ }
