@@ -69,8 +69,13 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
    - Software Devlopment
    - AI/ML Neuron Network/Robotices
 -Category4:
-  -Ethical hacking
-  -Android /System/network/Iot/Server/Crypto /etc and much more hacking Skill
+   -Ethical hacking
+   -Android /System/network/Iot/Server/Crypto Currency and much more.
+  
+
+
+
+  
 
 <hr>
 
@@ -78,9 +83,9 @@ This is my portfolio showcasing my projects and skills. You can visit the live v
 
 - Email: swarupinfotech1@gmail.com
 - LinkedIn: [Swarup Infotech](https://www.linkedin.com/feed/)
-- Twitter: [](https://twitter.com/)
+- Twitter: [Swarup Infotech](https://twitter.com/)
 - Instagram: [hck.ai...](https://www.instagram.com/hck.ai/)
-- Personal Website: [](https://swarupinfotech.com)
+- Personal Website: [SwarupInfotech.com](https://swarupinfotech.com)
 <hr><hr>
 Feel free to reach out to me for any collaborations, project ideas, or job opportunities.
 
